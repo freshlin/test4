@@ -18,6 +18,9 @@ public class MainActivity extends Activity implements Runnable{
         int zz = 3;
         int qq = 4;
         int uu = 2;
+
+        int fjdks = 5;
+
         this.run();
     }
 
